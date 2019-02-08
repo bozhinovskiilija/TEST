@@ -1,0 +1,8 @@
+24-Nov-2018 19:34:00 INFO ************TEST STARTED***********
+24-Nov-2018 19:34:02 INFO Insert username and password
+24-Nov-2018 19:39:12 INFO ************TEST STARTED***********
+24-Nov-2018 19:39:13 INFO Insert username and password
+24-Nov-2018 19:41:23 INFO ************TEST STARTED***********
+24-Nov-2018 19:41:25 INFO Insert username and password
+24-Nov-2018 19:45:48 INFO ************TEST STARTED***********
+24-Nov-2018 19:45:50 INFO Insert username and password

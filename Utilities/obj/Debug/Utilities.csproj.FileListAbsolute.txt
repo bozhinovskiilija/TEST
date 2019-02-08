@@ -1,0 +1,10 @@
+C:\Work\AutomationTesting.Betsold\Utilities\bin\Debug\Utilities.dll
+C:\Work\AutomationTesting.Betsold\Utilities\bin\Debug\Utilities.pdb
+C:\Work\AutomationTesting.Betsold\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Work\AutomationTesting.Betsold\Utilities\obj\Debug\Utilities.dll
+C:\Work\AutomationTesting.Betsold\Utilities\obj\Debug\Utilities.pdb
+C:\Betsold\AutomationTesting\Utilities\bin\Debug\Utilities.dll
+C:\Betsold\AutomationTesting\Utilities\bin\Debug\Utilities.pdb
+C:\Betsold\AutomationTesting\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Betsold\AutomationTesting\Utilities\obj\Debug\Utilities.dll
+C:\Betsold\AutomationTesting\Utilities\obj\Debug\Utilities.pdb

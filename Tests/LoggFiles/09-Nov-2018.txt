@@ -1,0 +1,14 @@
+09-Nov-2018 13:58:49 INFO ************TEST STARTED***********
+09-Nov-2018 13:58:49 INFO Navigating to Home Page
+09-Nov-2018 13:58:56 INFO Insert username and password
+09-Nov-2018 13:58:56 INFO User is successfully logged in 
+09-Nov-2018 14:12:47 INFO ************TEST STARTED***********
+09-Nov-2018 14:12:47 INFO Navigating to Home Page
+09-Nov-2018 14:14:28 INFO ************TEST STARTED***********
+09-Nov-2018 14:14:28 INFO Navigating to Home Page
+09-Nov-2018 14:17:19 INFO ************TEST STARTED***********
+09-Nov-2018 14:17:19 INFO Navigating to Home Page
+09-Nov-2018 14:42:12 INFO ************TEST STARTED***********
+09-Nov-2018 14:42:12 INFO Navigating to Home Page
+09-Nov-2018 14:42:19 INFO Insert username and password
+09-Nov-2018 14:42:24 INFO User is successfully logged in 

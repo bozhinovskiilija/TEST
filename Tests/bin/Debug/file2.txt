@@ -1,0 +1,658 @@
+﻿
+        
+        
+        Auction Help
+        
+         
+			
+				
+				Search help
+			
+				
+					Clear 
+				
+			
+		
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+
+        
+        
+        
+        
+        General Auction help  
+        
+        
+        
+
+        
+        
+        
+        
+        What is the Corbett sports Auction
+        How does the auction work?
+        Do I need an account?
+        How much does it cost?
+        Navigating around the site
+        An explantion of odds types
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        The Live Auction page
+        
+        
+        
+        
+        
+        
+        
+        The main auction area
+        Sorting the Auction Listings
+        Apply Filters to the Auction Listings
+        Viewing details of listings
+        Bidding on listings
+        The Sports sidebar
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        Listing a bet in the Auction
+        
+        
+        
+        
+        
+        
+        
+        How to List a Bet
+        Cost of Listing
+        How long do I list for
+        I've listed the wrong bet for Auction or added a listing by mistake
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        My Tracker
+        
+        
+        
+        
+        
+        
+        
+        What is My Tracker?
+        Sort & filter the tracker tiles
+        
+        
+        Tracker tile types
+        
+        
+        
+        
+        
+        Bidding
+        Selling
+        Watching
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        My Account
+        
+        
+        
+        
+        
+        
+        
+        My Account - Overview
+        My Account - Live Listings
+        My Account - Live Bids
+        My Account - Watching
+        My Account - History
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        Auction Rules & Terms
+        
+        
+        
+        
+        
+        
+        
+        Auction rules - Overview
+        Auction terms - Summary
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        What is the Corbett sports Auction ?
+         Brand new to Corbett sports an online auction where you can sell a bet you’ve placed at Corbett sports or buy another Corbett sports customers bet that they’ve decided to list for sale at auction
+        The auction allows you to sell any bet that you already have at any time in order to get out of the bet early or to capitalise from a change in the likelihood of a positive event outcome before the event or events end. Your bet listing will only sell if someone else bids on your listing (and is the highest bidder) and if it meets your reserve price (if you have set one). *Go to help on reserve price
+        The auction allows you to bid for bets that other people own and have decided to sell – these can be any bets in any market and they can be added to the auction at any time.  As well as singles, they can include multiples or accumulators or any type of combination bet that you have bought from your bookmaker.
+        
+        
+        How does the auction work ?
+         The auction allows you to sell any bet that you already have at any time in order to get out of the bet early or to capitalise from a change in the likelihood of a positive event outcome before the event or events end. Your bet listing will only sell if someone else bids on your listing (and is the highest bidder) and if it meets your reserve price (if you have set one). See below. The auction allows you to bid for bets that other people own and have decided to sell – these can be any bets in any market and they can be added to the auction at any time. As well as singles, they can include multiples or accumulators or any type of combination bet that you have bought from your bookmaker.
+        
+        
+        Do I need an auction account?
+         You must be a hold an account with a Corbett sports to bid in the auction.
+        
+        You must have funds in your Corbett sports account to cover the cost of your bid.  No money will be removed from you account unless you are the winning (highest) bidder or if you have opted to ‘Buy Now’ and buy a listing outright. So you don’t need a separate account to use the Auction all you need is a Corbett sports account. If you don’t have a Corbett sports account you can register for one now by clicking below.
+        
+         1.  Create an account  2.  Deposit Funds  3.  Start Betting, Buying & Bidding
+        Sign up for your Corbett sports account by clicking here
+         
+        
+        Cost and payment
+        Bidding and Listing are free
+        There is a fee of 5% on successful bids (winning bids) and a fee of 5% on a successful sale. The 5% commission is taken on bid value so If you are the winning bidder there is a 5% fee applied to the winning bid amount. If you bid £10, a 5% fee is added to the bid price.  In this example the total cost would be £10 winning bid price plus 5% fee = £10.50.
+        
+        You must have funds in your Corbett sports account to cover the cost of your bid.  No money will be removed from you account unless you are the winning (highest) bidder or if you have opted to ‘Buy Now’ and buy a listing outright.If you are selling that bet and you accept a bid for £10, a fee of 5%  (£0.50) is charged  so that the net amount received by you is £9.50 (this will show as your max profit in your account page and will also be indicated at the point of listing so that you can work out your profit, reserve and buy not price (if selected) at the time of listing.Any money due to you from the sale of a listing or money you pay on a winning auction bid will be deducted form your Corbett sports account wallet.
+        You can keep track of your auction payments via the My Account page in the auction using the historic Bidding and Listing pages. Payments from your Corbett sports account will still be visible in the Corbett sports My Account page in your Statement area.
+        
+        
+        Navigating around the site
+         Log in to your Corbett sports account then click on the Auction button in the Corbett sports menu
+        
+        Click on the 'Auction' button in Corbett sports main menu
+        Once you've logged in to your Corbett sports account and have clicked on the auction button you can get to the Live Auction listings by clicking on the Live Auction tab on the navigation bar as shown below. This is always shown at the top of the Auction site and is your main way to get around the site. The most important parts of the site are shown as text links and there are also some Icons which we’ll explain further. If at any time you wish to return to the Corbett sports site you can click back on the Corbett sports main menu.
+        
+        Click on 'Live Auction' on the Auction page navigation menu
+         Live Auction The main Auction section showing all of the bets listed for sale in the auction at the current time. The listings can be sorted and filtered as you wish, You can use the filters to reduce the numbers of bets you are viewing based on a number of options including bet type, whether it has any bids, the price range and when the auction ends and these preferences can even be saved for later use.
+         My Tracker  My tracker shows all of your active listings these include listings you are watching, listings you’ve made bids on and also your own bets that you have listed in the Auction. The tracker displays all listings in a handy tile format making it easy to view and control your auction activity as the action is taking place.
+         Sell a Bet If you have a Corbett sports bet that you want to include for sale this is place to go. List almost any bet* for sale in Auction, choose a minimum sale price called the “Reserve price” and you can also add a “Buy it Now” price meaning someone can by your listed bet outright, the Auction will be done. You specify to length of the Auction from anywhere from 30 minutes to hours, days, weeks or months until the time of the event you bet on has finished.
+        *(some restrictions may apply) 
+         Auction Account The account section has all of your auction stats in handy to view lists so that you can view of your activity down to last detail, as well as do some really handy stuff like watching and rebidding for listings or changing the reserve price or end time on your own listed bets. There are sections for Live bids, Your listings, watched listings as well as a history section detailing all of your bidding and listing history.
+         Messages The envelope icon will let you know when have a message, just look out for the number beside the icon. Clicking on this will open a mail box where you can read any messages you have.
+         Help The question mark Icon will bring you here to site Help section where we hope to guide you and answer all of the questions you may have regarding the Auction. If there is anything you can’t find then you can search for a Help topic using the search box below. If you’re still unable to find the issue you’re looking for than can contact out site support by clicking here
+         Settings The settings section of the site where you could choose preferences such as whether you see odds as decimal, fraction or American. The site will remember your settings the next time you visit, these settings can be changed and saved again at any time. 
+         Tutorial The Tutorial section is available on all pages and explains basic priciples of the auction using short videos with information snippets to help you get familiar with how the Auction works.
+        
+        
+        An explanation of different odds types
+        When using the auction you will see different types of Odds displayed in different areas of the site. Some of them will be familiar to you and some you won’t have come across before these may be confusing at first but when you learn the how they work they will be become an invaluable tool for getting the most from your auction experience.
+        Placed OddsThe odds on a bet at the time it was placed.
+        Market Odds  The current market odds the bookmaker is providing.
+        Bid Odds™  An odds format to enable you to compare the current bid and return against current market odds.  Use it as a guide to establish if the auction is delivering better odds than the current market.
+        Auction Odds™  Where Bid Odds™ will always change when the bid changes  Auction Odds™  are set and established by the final bid amount paid for a listing they give you a comparison for the auction versus the market.
+        An odds example - If odds are 10/1 and you place a £10 bet – the potential return is £110 (odds times the stake plus the stake back).
+        This is calculated by using the odds (10/1 = 10) times the stake (10) = 10 x 10 = £100 plus £10 stake
+        If we know the return = £110 and we know the high bid (£10) then we can work out the odds to deliver this return.
+        In this case if £10 was the highest bid, and that bid was successful there would be £0.50 cost (5%fee) taking the total to £10.50.
+        To derive the Bid odds so that they can be compared to current market – the return of the existing bet you are bidding is still £110, less the ‘cost’ = £10.50 so the bid odds (for comparison) would be £110-£10.50 = £99.50.  £99.50 divided by bid cost (10.50), bid odds = 9.5/1.
+        In summary Bid odds are a measurement to enable you to compare the current bid and return against current market odds.  Use it as a guide to establish if the auction is delivering better odds than the current market. The bid odds will always show the bid price including the fee cost for the bidder so that a total cost comparison can be made against the market odds for these bidding viewers.
+        
+        
+        The Live Auction page
+        The live auction page shows a list all of the bets listed for sale in Auction.
+        Listings in rows
+        The listings or lots are displayed in rows, with each row showing you the Bet details, the Maximum win amount for that listing, the current High Bid for that listing if there is one, the Bid Odds™ (explained in greater detail here), The time left before the auction will end. And on the right hand side are the actions for this particular listing an input box for bids and a bid button should you wish to place a bid and a button with an eye icon  which you can click if you want to add this listing to your watchlist.
+        You can bid from the main auction page using the bid button on the auction listing row or on any listed bet from the expanded listing view.
+        Click to expand listing rows and show Listing details
+        All listings can be expanded to show you more detailed information by clicking on the event name or bet details..
+        
+        
+        Sorting the Auction listings
+         You can change the sort the order of the listings shown in the Auction panel by clicking on the name of the category that you wish to sort the listings by.
+        In the example shown below the Bid Odds™ category has has been chosen and the auction listings will be sorted in descending order of highest to lowest Bid Odds™. If you click on the category again the the sort order will be reversed and listings would be shown in ascending order.
+        Descending Bid Odds™ are the default sort order of the listings but these can be changed at any time by clicking on another category and again on that category to reverse the sort order.
+        
+        
+        Sort the auction listings by clicking on the named categories at the top of the image
+        
+        
+        Apply filters to the Auction listings
+        What are the filters for? The auction filters are a tool for reducing or narrowing the number listings shown in the Auction panel, as there may be many thousands of listings available to buy at any one time. The filters enable you to find exactly what you are looking for in the Auction among the myriad of available listings.
+        
+        How do I use the filters? You use the filters by choosing options from the white boxes in the filter panel, There are many options available to help you to hide listings your not interested in while allowing you to focus on the type of listings you may want to bid on. You can close the filter panel when your finished using it, making it easier to view your filtered listings in the auction panel. It also possible to save your favourite filter combinations making It more convenient to find the listings your interested in at a later date. The filter panel is shown below…
+        
+        FIG-1. An example of the Auction filter box showing filters selected to display single listings only
+        There are filters for the following categories 
+        Type of bet Choose from singles, doubles, accumulators or any other type of bet that can be purchased from Corbett sports.
+        Event status  Choose from events that haven’t started yet or events that are currently in play.
+        Odds comparison  Choose from listings with different odds states such as markets that are now closed or where the odds available in the auction “Bid Odds™ “ are better than the market
+        Reserve Choose from listings that have bids that have met that listings set reserve price or choose listings where the bid value has still to reach that of the set reserve price for that listing.
+        Sale type Choose from listings that have an option to buy them outright called “Buy it Now” or listings that are for Auction only and cannot be bought outright.
+        Bid price range Choose a price range for the type of listing that would like to buy ranging from listings priced up to a £10 to listings costing £1000 and over.
+        Bids made Choose from listings which have already have bids made on them or listings that have yet to be bid on.
+        Auction ends within Select listings that have a particular auction end time specify options like the next hour or the next day.
+        Saving or loading your filter preferences  Any set of filter combinations can be given a name and saved for use at a later date. There is a drop down menu where you can view then load your saved filter sets, allowing you quick access to favourites without having to go through the process of filtering again. Any filter set can be edited and saved again for a later date.
+        What are the blue chips for ? The blue chips below the filter panel let you know which filters are active and filtering the listings at that particular time. You can click on the right hand side of the chip to remove a chip and this will reset its associated filter. The filter chip area is always visible even when the filter panel is closed allowing you to see how the auction listings are being filter at a glance. See FIG-1 for an example of the filter chips.
+        
+        
+        Viewing Listing details
+        Click to expand listing rows and show Listing details
+        All listings can be expanded to show you more detailed information by clicking on the event name or bet details..the included information is listed below
+        Games centreContains sports information on the event start time and the latest match or event status (this will only update if the event has started or if the listed bet is an accumulator where part of the bet is complete).  
+        Listing details The event or match details & the bet details which include stake and placed odds.
+        Listing ends in  A countdown timer “9wk 3d 4h” showing time left until the end of the auction 
+        Original Stake  The stake of the bet listed for sale in the auction
+        Max Win   The maximum return of the bet listed for sale in the auction
+        Current high bid   The current high bid for this listing
+        Current bid odds  The odds the person who has placed this bid will get on this listing should they win the auction compared to current market odds.
+
+        Your bid price  The amount you’re about to bid on the current listing if applicable.
+        Return  The return you would get from this listing should you win the auction and the bet were to place
+        Your bid odds  The odds you will get on this listing should your bid be the winning bid at the auction end compared to current market odds.
+        Current market odds The odds the bookmaker are currently offering on this bet.
+        Submit a bid The amount you’re willing to bid Is input in the left hand box and the button to the right will then submit this bid for the listing.
+        Buy it now The amount the seller is willing to accept to allow you to buy the listing outright and end the auction immediately.
+        Bids & Watching infoThe amount of bids already placed on this listing if any and the amount of other people who are currently watching this listing.
+        
+        
+        Bidding on Listings
+        How much do I bid?
+        How much should you bid for a listing is very much a personal choice, it’s really up to you how much you think a particular bet is worth and of course whether or not it’s a possible winner.
+        There are some things that can help you deciding on a bid amount, such as the stake and odds of the bet when it was placed and how these compare to the current market...this is where our Bid Odds™ come into their own. Giving you a way to compare all of these variables and quickly decide how good a deal a listing is and the amount you may want to bid for it.
+        Where to Bid on listings  There are a few places to make a bid on a listing within the Auction these are listed below
+        1. In the Live auction page directly on the listing row 
+        2. Auction listings expanded to show the listing details view.
+        3. The My Tracker page from Bidding and Watching tiles
+        4. The My Account page on the “Live Bids” table and on the “Watching” table
+        
+        
+        
+        The sports sidebar
+        What is it for ?
+        The Sports Sidebar menu is for Sorting & Filtering the auction listings
+        Clicking on Football for example will show all Football listings  with an option to further filter by a particular league or event.
+        How do I use it ?
+        You can use the Sports Sidebar menu in several different ways
+        1. To Search the listings by typing a word or phrase into the text box.
+        2. To find events the start within a specific time frame such as the next hour or the next 24hrs you can also specify a time period to search for listings within that time frame.
+        I cannot see my favourite sport ?
+        We only include Sports that are currently shown at the Corbett sports site on the Sports Sidebar menu, but if you type in the name or event of the sport you are looking for into the “Search listings” box at the top of the Sports Sidebar it’s possible you may find a bet that has been listed featuring it.
+        Expanded view and mini sidebar views
+        On smaller screens the Sports sidebar menu will be displayed in smaller format due to space constraints. You can still get to all of it features by clicking on the Sidebar to expand it to full size, when you’re done just click 
+        
+        
+        How to List a Bet for auction
+        You can 'List a Bet' for sale in the Auction from the betslip on the Corbett sports site…
+        1. From the Betslip as you are placing your Corbett sports bet you will be given the option to add this bet to the Auction.
+        2.  You’ll be given some other options explained below to help you list your bet for sale in the Auction. Once you're happy with these click "Add to Auction" to proceed
+					  
+					  The Corbett sports betslip
+					  In the Betslip you’ll be give the following options before listing your bet in the Auction.
+
+					  1. The Event details and Bet details,  the stake and the Odds at the time when you placed your bet.
+
+				  2. The Auction start date which is set by default to the time your bet is listed 
+
+				  3. The Auction end date which is set by default to the time that your event will start
+
+					  Below this are boxes to set a Buy it Now price and a Reserve price for your listing both are optional and you can still list even if you chose not to include these prices.
+
+					  A Buy it Now price will allow your listing to be bought outright for this price at any time during the auction meaning this bet has been sold, is no longer yours and the auction is over.
+
+					  A Reserve price is really just the minimum sale price your willing to except for your bet. This ensures that the bet will not be sold for less than that amount even if there are bids made on the bet.
+					  You can edit your reserve price at any time as long as there are no bids at or below your new reserve price, you may wish to do this to encourage more bids for your listing. If the bet gets to the end of the auction and your Reserve price has not been met the bet is still yours. At this point if the event you’ve bet on is still to happen or In-play you can list the bet again.
+
+					  You will then be given the option to add your bet to the Auction, Cancel or get further help.
+			  
+			  
+				  Cost of listing a bet
+					   Bidding and Listing are free
+					   There is a fee of 5% on successful bids (winning bids) and a fee of 5% on a successful sale. The 5% commission is taken on bid value so If you are the winning bidder there is a 5% fee applied to the winning bid amount. If you bid £10, a 5% fee is added to the bid price.  In this example the total cost would be £10 winning bid price plus 5% fee = £10.50.
+					  
+					  You must have funds in your Corbett sports account to cover the cost of your bid.  No money will be removed from you account unless you are the winning (highest) bidder or if you have opted to ‘Buy Now’ and buy a listing outright.If you are selling that bet and you accept a bid for £10, a fee of 5%  (£0.50) is charged  so that the net amount received by you is £9.50 (this will show as your max profit in your account page and will also be indicated at the point of listing so that you can work out your profit, reserve and buy not price (if selected) at the time of listing.Any money due to you from the sale of a listing or money you pay on a winning auction bid will be deducted form your Corbett sports account wallet.
+					  You can keep track of your auction payments via the My Account page in the auction using the historic Bidding and Listing pages. Payments from your Corbett sports account will still be visible in the Corbett sports My Account page in your Statement area.
+			  
+			  
+				  How long do I list for?
+					   It’s really up to you how long you list a bet for sale in the auction it can be almost for as long or short a time as you choose. However the auction can of course only take place while a bet is still active and on some occasions listings may have to end at prior to or at the beginning of the event the bet has been placed on. You can edit lising settings from your live tracker lisitng tiles by clicking on the blue pencil shown below
+					    
+						 Click on the pencil next to the reserve price amount and a modal will open to allow you to edit your reserve price
+					   
+					  Accumulators and multiples
+					  If you are listing for example a 6 part accumulator (or similar) you can create auction to open and close between each selection  (if the accumulator is still running after each of those selection). To do this set the auction start time as usual and set the auction end time to the end of the desired selection.
+			  
+				  
+				  Listing errors
+					  I've listed the wrong bet for Auction / Added a listing by mistake or I've changed my mind
+					   If you’ve made an error while listing your bet such as setting the wrong reserve price, setting the buy it now price too low, too high or even setting the wrong auction end date you can edit these options either via the live tracker page listing tiles or via the Live listing section on the My Account page.
+					  (*See the examples below)
+					  
+					  
+						Click on the reserve price amount and a dialog box appear allowing to change your reserve (See FIG-1c)
+					  
+						  
+							  
+							  FIG-1a - Click on the pencil next to the reserve price amount and the tile will flip over to allow you to edit your reserve price (see FIG-1b)
+							  
+							  FIG-1c - The dialog box confirming the change to your reserve, the new reserve amount will normally be entered automatically from previous screens if it has not been then enter your new reserve price now and click on the change button to confirm the change to your reserve price 
+						  
+						  
+							  
+							  FIG-1b - Once the tile has flipped over enter the new reserve price amount and click on the blue pencil button, you will then see a dialog box asking you to cofirm your new reserve price (See FIG-1c)
+						  
+					  
+					  If you have chosen the wrong bet to add to the auction
+					  If you have listed a bet to auction in error and wish to remove it from auction you can as long as there haven’t been any bids on the listing that have met the stated reserve price you can withdraw this listing, this can be done either via the live tracker page listing tiles or via the Live listing section on the My Account page. If there has been a bid that has met the stated reserve price then unfortunately this bet cannot be withdrawn and must be transferred to the successful bidder as they are now the legal owner of the bet as stated and prior to agreed upon in the terms and conditions of the auction.
+					  
+					  If you have changed your mind about listing a bet in the auction
+					  The same conditions as the ones stated above apply here as long as there are no bids on the listing that have met the stated reserve price you can withdraw this listing from the auction, this can be done either via the live tracker page listing tiles or via the Live listing section on the My Account page. If there has been a bid that has met the stated reserve price then unfortunately this bet cannot be withdrawn and must be transferred to the successful bidder on completion of the auction, they will then be the legal owner of the bet as stated and prior to agreed upon in the terms and conditions of the auction.
+					  
+			
+			  
+				  What is My Tracker?
+					   The My Tracker page allows you to pin current listings that are active in the auction into one place.   You can view listings in a compact tile format showing you tiles for listings are watching, bets you have listed for sale and listings you have made a bid on, you can also view all of three of the categories at the same time. 
+					  Bidding
+					   Bidding tiles include all of the active listings that you have placed a bid on at any point in the auction, The tiles display useful information to help you keep track of listings so you know when you have to perform actions like making another bid if you have been outbid by another user. They show the following information…
+					   Selling
+					  Selling tiles include all of the active listings that you have listed for sale in the auction, The tiles display useful information to help you keep track of listings so you know when you have to perform actions like making changing your reserve if you’re getting no bids or altering your the time your bet will be listed for sale for.
+					  Watching
+					  The Watching tiles can Include any Listing from the Auction that have selected for your watchlist you can do this by clicking on the Eye icon (i) at the end of this listing in the auction area this watchlist can also Included listings you may previously have made a bid on.
+			  
+			  
+				  Sorting & Filtering My Tracker tiles
+					   Above the the Tracker tiles are three options to control what types of tile are displayed on the page. By default the tiles showing listings you are currently watching are displayed, you can change this by toggling the buttons for each category on and off. You can then decided the order your tiles are displayed in with options including: Ending soonest, reserve met, reserve not met, your winning bids and listings you have made a bid on but are currently being outbid by another auction user
+			  
+			
+				  Tracker tile types - Bidding
+					   Bidding tiles include all of the active listings that you have placed a bid on at any point in the auction, The tiles display useful information to help you keep track of listings so you know when you have to perform actions like making another bid if you have been outbid by another user. They show the following information…
+					  Time left A countdown timer that lets you know when the auction for this listing will end.
+					  Traffic lights and reserve
+					  The bidding tiles use a colour code let you know the current state of a bid you’ve made on a listing, these colours are displayed along the top right hand side of the listing tiles…
+					  Green will show if you have made a bid which is the Highest bid and the Reserve for this listing has been met.
+					  Blue will show if you have made the highest bid for this listing but the reserve price has not been met.
+					  Red will show if you are currently being outbid by another bidder regardless of whether the reserve price has been met or not, the indicator will remain red until you make another bid which beats the current high bid.
+					  Stop watching listing If a listing you’ve made a bid on is also a part of your watchlist it will have an Eye icon  in the top right corner of the the tile within the traffic light area. You can stop watching this listing at any time by moving your mouse pointer over the Eye icon  until you see the red x then click to un-watch this listing and it will now be removed from your watchlist.
+
+					  Event Status  Whether or not the event for this listing has not started yet “NSY” or is underway and is currently “IN-PLAY”
+					  Event details & Bet details  A summary of the event and bet details
+					  Current Odds  The current market odds the bookmaker is providing.
+					  Bid Odds™   An odds format to enable you to compare the current bid and return against current market odds.  Use it as a guide to establish if the auction is delivering better odds than the current market.
+					  Current profit  The current profit for this listing, calculated using the current bid and the original stake minus commission that will be taken from the winning bid amount before it is paid to you.
+					  Current bid  The current bid made on the listing
+					  Hiding tiles
+					  You can hide the My Tracker tiles temporarily by clicking on the close icon  this will only temporarily hide the tiles and they will be redisplayed the next time you visit the auction. 
+					  If you have hidden a tile and wish to find it the listing related to it again you can check the My Account section as of all of  your bids are stored in the live bids if the auction is still live and the historic bids if the auction for the listing has ended.
+					  Bidders & Watchers Tiles tell you how many auctions users are watching  this particular listing and how many bids  have been made on it.
+					  Make another bid
+					  The My Tracker tiles allow you to quickly make another bid for listings if you are currently being outbid by another auction user.
+				 	  Single and multiple cards
+					  Single tiles will show event details on the top line of the tile whereas Multiples will show the "accumulator type" on the top row, such as double or treble. Flipping or turning tiles will give you access to more actions or details. On the rear of multiple bet tiles, details for each leg or selection of the bet are shown.
+					  Bidding Tiles - Rear
+					  You can flip any of the My Tracker tiles by clicking on the Info Icon this will turn the tile over. More information and actions are included on the back of the tiles. The back of tiles will always display the event & bet details on both sides so that you can see at at glance what listing the tile is for without having to turn it again.
+					  Time Left This indicates the time remaining until the end of the auction
+					  Odds movement Odds movement is displayed as a graph this helps you to quickly see how the odds of listing have moved since the listed bet was placed.
+					  Buy Now The buy now price if one has been set, allows you to buy listings outright eliminating the bidding process and ending the auction.
+					  Similar listings If you have made a bid on a listing or are watching a listing and would like to find similar listings, perhaps on the same event but with a different stake or different placed odds, this can help you to find the best deals on listings that your interested in. Handy for times when the current one has too many bids raising the price or when you think the current price is not good value.
+					  Odds Movement Lets you know how the current market odds are moving in relation to the odds on the bet when it was placed.
+					  
+						Multiple bet tiles shown in your bidding section will have details of the all of the selections or legs in that bet included as extra details on the back of the tiles.
+			  
+				  
+					  Tracker tile types - Selling
+					  Selling tiles include all of the active listings that you have listed for sale in the auction, The tiles display useful information to help you keep track of listings so you know when you have to perform actions like making changing your reserve if you’re getting no bids or altering your the time your bet will be listed for sale for. 
+					  Time left  A countdown timer that lets you know when the auction for this listing will end.
+					  Reserve State  This lets you know whether your listing has met the reserve price you set for it. It’s colour coded and will be blue when your reserve still hasn’t been met turning green  once you set reserve price has been reached.
+					  Hiding tiles
+					  You can hide the My Tracker tiles temporarily by clicking on the close icon  this will only temporarily hide the tiles and they will be redisplayed the next time you visit the auction.
+					If you have hidden a tile and wish to find it the listing related to it again you can check the My Account section as of all of  your listed bets are stored in the live listings section if the auction is still live and the historic listings if the auction for the listing has ended.
+					  Event details & Bet details  A summary of the event and bet details
+					  Max Win  The maximum win or return you could get from this bet if the outcome is successful.
+					  High bid  The current high bid for your listed bet.
+					  Bid Odds™ An odds format to enable you to compare the current bid and return against current market odds.  Use it as a guide to establish if your listing is delivering better odds than the current market.
+					  Market Odds  The current market odds the bookmaker is providing for this bet.
+					  Edit your reserve price Shows your current reserve price and gives you the option to edit the reserve price as long as the current reserve has not yet been met.
+					  Turn Over Tiles For more Info you can turn the tiles over giving more actions and further information.
+					  Bidders & Watchers  Tiles tell you how many auctions users are watching  this particular listing and how many bids  have been made on it.
+					  Sport Type   A small icon that depicts the sport type of each of your listed tiles is displayed in the tiles right hand corner. 
+
+					  Single and multiple cards
+					  Single tiles will show event details on the top line of the tile whereas Multiples will show the "accumulator type" on the top row, such as double or treble. Flipping or turning tiles will give you access to more actions or details. On the rear of multiple bet tiles, details for each leg or selection of the bet are shown.
+			  
+			  
+				  Tracker tile types - Watching
+					    The Watching tiles can Include any Listing from the Auction that you have selected for your watchlist. You can do this by clicking on the Eye icon  at the end of a listing in the auction area, the watchlist can also Included listings you may have previously made a bid on.  If a listing you’ve made a bid on is also a part of your watchlist it will have an Eye icon  in the top right corner of the the tile within the traffic light area.
+					  Un-watch a watched listing You can stop watching this listing at any time by moving your mouse pointer over the Eye icon  until you see the red x  and clicking to un-watch this listing, it will now be removed from your watchlist.
+					  Single and multiple cards
+					  Single tiles will show event details on the top line of the tile whereas Multiples will show the "accumulator type" on the top row, such as double or treble. Flipping or turning tiles will give you access to more actions or details. On the rear of multiple bet tiles, details for each leg or selection of the bet are shown.
+					  Traffic lights and reserve
+					  The bidding tiles use a colour code let you know the current state of a bid you’ve made on a listing, these colours are displayed along the top right hand side of the listing tiles…
+					  Green will show if you have made a bid which is the Highest bid and the Reserve for this listing has been met.
+					  Blue will show if you have made the highest bid for this listing but the reserve price has not been met.
+					  Red will show if you are currently being outbid by another bidder regardless of whether the reserve price has been met or not, the indicator will remain red until you make another bid which beats the current high bid.
+					  Stop watching listing If a listing you’ve made a bid on is also a part of your watchlist it will have an Eye icon  in the top right corner of the the tile within the traffic light area. You can stop watching this listing at any time by moving your mouse pointer over the Eye icon  until you see the red x then click to un-watch this listing and it will now be removed from your watchlist.
+
+					  Event Status  Whether or not the event for this listing has not started yet “NSY” or is underway and is currently “IN-PLAY”
+					  Event details & Bet details  A summary of the event and bet details
+					  Current Odds  The current market odds the bookmaker is providing.
+					  Bid Odds™   An odds format to enable you to compare the current bid and return against current market odds.  Use it as a guide to establish if the auction is delivering better odds than the current market.
+					  Current profit  The current profit for this listing, calculated using the current bid and the original stake minus commission that will be taken from the winning bid amount before it is paid to you.
+					  Current bid  The current bid made on the listing
+					  Hiding tiles
+					  You can hide the My Tracker tiles temporarily by clicking on the close icon  this will only temporarily hide the tiles and they will be redisplayed the next time you visit the auction. 
+					  If you have hidden a tile and wish to find it the listing related to it again you can check the My Account section as of all of  your bids are stored in the live bids if the auction is still live and the historic bids if the auction for the listing has ended.
+					  Bidders & Watchers Tiles tell you how many auctions users are watching  this particular listing and how many bids  have been made on it.
+					  Make another bid
+					  The My Tracker tiles allow you to quickly make another bid for listings if you are currently being outbid by another auction user.
+				 	  Single and multiple cards
+					  Single tiles will show event details on the top line of the tile whereas Multiples will show the "accumulator type" on the top row, such as double or treble. Flipping or turning tiles will give you access to more actions or details. On the rear of multiple bet tiles, details for each leg or selection of the bet are shown.
+					  Bidding Tiles - Rear
+					  You can flip any of the My Tracker tiles by clicking on the Info Icon this will turn the tile over. More information and actions are included on the back of the tiles. The back of tiles will always display the event & bet details on both sides so that you can see at at glance what listing the tile is for without having to turn it again.
+					  Time Left This indicates the time remaining until the end of the auction
+					  Odds movement Odds movement is displayed as a graph this helps you to quickly see how the odds of listing have moved since the listed bet was placed.
+					  Buy Now The buy now price if one has been set, allows you to buy listings outright eliminating the bidding process and ending the auction.
+					  Similar listings If you have made a bid on a listing or are watching a listing and would like to find similar listings, perhaps on the same event but with a different stake or different placed odds, this can help you to find the best deals on listings that your interested in. Handy for times when the current one has too many bids raising the price or when you think the current price is not good value.
+					  Odds Movement Lets you know how the current market odds are moving in relation to the odds on the bet when it was placed.
+					Multiple bet tiles shown in your bidding section will have details of the all of the selections or legs in that bet included as extra details on the back of the tiles.
+			  
+
+			  
+				  More tracker tile info
+					    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
+					  non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch
+					  3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+					  shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+					  sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+					  farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+					  accusamus labore sustainable VHS.
+					   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
+					  non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch
+					  3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+					  shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+					  sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+					  farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+					  accusamus labore sustainable VHS.
+			  
+			  
+				  My Account - Overview
+					  The Account overview page gives an at a glance summary of all of your auction activity, displayed in four categories (listed below). You can click on any of the four category boxes (See FIG-1)  on the overview page and it will take to a page with all of the details for that category.
+					  
+					  FIG-1. The Account overview category boxes
+					  Bids overview 
+					  This is a summary account of all of your bidding activity including...
+					  How many bids you’ve made and the value of theses bids.
+					  The value of the bids that you are highest bidder on and the potential win value of these bids should you successfully buy the bets at auction and they were to be winners.
+					  Listings overview
+					  This is a summary account of all of your listing activity including...
+					  How many bets  you have currently in auction, the number of people watching your listings and the number of bids you have on your listings in total.
+					  The value of the listings should the outcomes of the bets be successful and the current sale value of these listings.
+					  Watched overview
+					  This is a summary account of all of your watched listings activity including...
+					  How many listings you’re currently watching in the auction, the number of other people also watching those listings.
+					  The total bid value of the listings you are watching and the potential win value of these listings were you to buy them and the outcome of the bets was successful.
+					  History overview
+					  This is a summary account of all of your historic listing and bidding activity including...
+					  All of the bids you've previously made in the auction, all of the bets you’ve previously listed in the auction.How many times you’ve been successful in buying a listing at auction and the number of bets you’ve successfully sold at auction.
+					  The total sale value of all of the bets you’ve listed and sold at auction and the amount earned from the auction including these sale and winnings form any bet you purchased as a listing from the auction.
+			  
+			  
+				  My Account - Live Listings
+					   At the top of each My Account section is an overview bar giving you a brief review of your activity in the auction for that category.
+					  The listings section of the My Account page gives you detailed information on every bet you have listed in the auction that is still currently for sale. Once a listing has been sold or the auction has ended these will be transferred to your historic listings section.
+					  Headings & ExplanationsThe Account sections are laid out in tables, shown below is an explantion of the content included in the Live Listings section. 
+					  Event Status  Whether or not the event for this listing is “NSY” (not started yet) or is underway and is currently  “IN-PLAY”
+					  Stake  The stake placed on the bet that is listed in auction.
+					  Max Win  The maximum win or return from this bet if the outcome is successful.
+					  Current odds  The current market odds available for the bet associated with this particular listing. 
+					  Reserve price This shows reserve price that have currently set for this listing, meaning the minimum amount of money you are willing to accept for this listing. You do not need to set a reserve and If you have not set one a value of 0p will be displayed.You can edit or add a reserve price at any point of the auction, however if there are already bids made on the listing and want to edit the reserve price the new value must be above the highest bid price made on the listing. Lowering the reserve price to match the high bid price would force a sale of the listing, this is against the terms & conditions of the auction.
+					  Buy Now  The buy now price, allows auction users to buy listings outright eliminating the bidding process and ending the auction. You can change edit your buy now price here or set one if you haven’t already. If bids have already been made on your listing and you choose to edit it you must set your buy now price above the current high bid. Lowering the buy now price to match the high bid price would force the sale of the listing, this is against the terms & conditions of the auction.
+					  High Bid  The current high bid for listing.
+					  Bid Num  The number of bids currently made for this listing.
+					  Current profit  The current profit for this listing, calculated using the current bid and the original stake minus commission that will be taken from the winning bid amount before it is paid to you. The text is colour code as follows…
+					  If a listing is in profit it will be coloured green, if there is no profit black and if the listing is currently making a loss red. A loss might happen if the current bid is less than your stake for the bet, therefor the listing will only be in profit when the bid value exceeds the stake and associated cost in commission when the bet is sold.
+					  Auction ends by  The date and time you have set on the auction for this listing to end. You can edit the auction end time from here by clicking on the date shown for the listing. Setting the auction to end at the current time will withdraw this listing from the auction.
+			  
+			  
+				  My Account - Live Bids
+					    At the top of each My Account section is an overview bar giving you a brief review of your activity in the auction for that category.
+					  The Live Bids section of the My Account page gives you detailed information on every bid you have made on listings that are still currently for sale in the auction. Once a listing has been sold or the auction has ended these will be transferred to your historic bids section.
+					  Headings & ExplanationsThe Account sections are laid out in tables, shown below is an explantion of the content included in the Live Bids section. 
+					  Event & bet details  Details of the event and the bet on this event for any particular listing.
+					  Event Status  Whether or not the event for this listing has not started yet “NSY” or is underway and is currently “IN-PLAY” 
+					  Stake The stake placed on the bet that is listed for auction.
+					  Odds  The odds given on the bet when it was placed.
+					  Max Win The maximum win or return you could get from this bet if the outcome is successful and you win the auction.
+					  Current odds  The current market odds available for the bet associated with this particular listing.
+					  Bid Odds™  The odds format that enables you to compare the current bid and return against the market.
+					  High Bid The current high bid on this listing.
+					  My Bid  Shows your current bid on this listing and uses a colour code that will let you know if you’ve been outbid red if you have the current high bid for the listing but the reserve price has not been met  blue  Or if you are currently the high bidder green
+					  You can make a new bid on the listing from here by clicking on the “My Bid” amount. You may want to do this if you’ve been outbid or the reserve hasn’t been met for this listing yet.
+					  Auction Ends  The date and time the auction for this listing will end.
+			  
+				  
+				  My Account - Watching
+					   At the top of each My Account section is an overview bar giving you a brief review of your activity in the auction for that category.
+					  The watching section of the My Account page gives you detailed information on every bet you have watched in the auction that is still currently for sale. Once a listing has been sold or the auction has ended these listings will be removed from your watchlist section.
+					  Event & bet details  Details of the event and the bet on this event for any particular listing.
+					  Stake  The stake amount on the bet when it was placed.
+					  Odds  The odds on the bet at time that it was placed.
+					  Profit  The amount of profit you could make from this if this bet if it won minus commission costs and the current high bid amount. If this is not your high bid when you make a counter bid the profit amount shown will change.
+					  Current odds The current market odds available for the bet associated with this particular listing.
+					  Bid Odds™  The odds format that enables you to compare the current bid and return against the current market.
+					  Event Status Whether or not the event for this listing has not started yet “NSY” or is underway and is currently “IN-PLAY” 
+					  High Bid The current high bid for a listing. You can make a new bid on the listing from here by clicking on the “High Bid” amount shown, this will open a dialog box allowing to enter a bid. 
+					  Buy now  The current Buy now price for this listing. You can buy the listing outright from here by clicking on the “Buy Now” amount shown, this will open a dialog box allowing to you to purchase the listing.
+					  Event Status  Whether or not the event for this listing has (not started yet) “NSY” or is underway and is currently  “IN-PLAY”
+					  Auction ends by  The date and time the auction for this listing will end.
+					  Un-watch Listings that you are watching have the eye icon  next to them. To stop watching a listing, move your mouse cursor over the eye icon  until you see the red X then click. This listing will now be removed from your watchlist, if you have made a bid on the listing it will still be available to view in the bids section of the account page or if the auction is over in your historic bids section.
+			  
+			  
+				  My Account - History
+					   Navigation, Sort and Search bar
+					  On the top of Historic Bids & Listings section is a menu bar. Here you can switch between your Bids History and your Listings History, You can also sort the tables by date shown in months and other useful categories and you can also search for specific events or listings included within the historic Listing and Bids sections
+					  The Historic bids page
+					  Event & bet details Details of the event and the bet on this event for any particular listing.
+					  Stake The stake amount paid on the bet when it was placed.
+					  Odds  The odds on the bet at time the it was placed.
+					  Profit The amount of profit you could make from this bet if it won, minus commission costs and the current high bid amount. If this is not your high bid, when you make a counter bid then the profit amount shown will change.
+					  Auction Odds™Are set and established by the final bid amount paid for a listing they give you a way to compare the auction against the market.
+					  My Bid  The last bid you made on that listing before the auction closed, these are colour coded which quickly lets you see which bids were successful shown in   green, Listings on which you were the highest bidder but lost out on winning because the reserve price was not met shown in blue and listings you did not win because you were outbid shown in red
+
+					  The Historic listings page
+					  Event & bet details Details of the event and the bet on this event for any particular listing.
+					  Event Status Whether or not the event for this listing has (not started yet) “NSY” or is underway and is currently  “IN-PLAY”.
+					  *As this is part of your historic listings section I assume this means that the auction is over for this listing but the listing is still live. If so…should this be in live listings with an option to “re-list” or there should be a “re-list this” option displayed somewhere here in the historic listings section for events that are still in-play
+					  *(Add to jira)
+					  Stake The stake amount paid on the bet of this listing when it was placed.
+					  Max Win The maximum win or return from this bet if the outcome was successful.
+					  Reserve price This shows reserve price that had set for this listing meaning the minimum amount of money you were willing to accept for this listing. 
+					  Buy Now The shows the buy now price you set for this listing, if this listing was sold using the buy now option there will be a green arrow to the right of the buy now price to indicate this.
+						  *	If this did sell for it’s buy now Should this be highlighted by a free arrow
+						  *	(add to Jira)
+					  High Bid  The last high bid for this listing , You can make a new bid on the listing from here by clicking on the “High Bid” amount shown this will open a dialog box allowing to enter a bid.
+					  No. Of Bids How many bids were placed on this listing before the auction ended.
+					  Auction P&L  This lets you know if you made a profit or a loss from the sale of a listing. It will say none or zero and the lot status will say not sold, If it was sold the cash amount of the sale will have a plus before it and will be shown in green. Any listing which was sold at a loss will have with a minus before it and will be shown in red.
+					  Lot Status  This let you know if  a listing was sold or not.
+					  *(what does open mean? Should this read “sold or not sold” ? as in the designs)
+					  Pager & Rows  You can choose how many rows of live bids you view at any one time and then which page by using the dropdown and pager controls.
+			  
+			  
+				  Auction Rules - Overview
+					    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
+					  non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch
+					  3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+					  shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+					  sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+					  farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+					  accusamus labore sustainable VHS.
+					   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
+					  non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch
+					  3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+					  shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+					  sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+					  farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+					  accusamus labore sustainable VHS.
+				  
+				  Auction Terms - Summary
+					    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
+					  non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch
+					  3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+					  shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+					  sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+					  farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+					  accusamus labore sustainable VHS.
+					   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
+					  non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch
+					  3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+					  shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+					  sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+					  farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+					  accusamus labore sustainable VHS.
+			  
+		  
+	  
+	
+			
+			
+				Close 
+			
+		

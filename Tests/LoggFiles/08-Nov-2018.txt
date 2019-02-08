@@ -1,0 +1,8 @@
+08-Nov-2018 14:36:27 INFO ************TEST STARTED***********
+08-Nov-2018 14:36:27 INFO Navigating to Home Page
+08-Nov-2018 14:36:30 INFO Insert username and password
+08-Nov-2018 14:36:30 INFO User is successfully logged in 
+08-Nov-2018 15:00:56 INFO ************TEST STARTED***********
+08-Nov-2018 15:00:56 INFO Navigating to Home Page
+08-Nov-2018 15:01:02 INFO Insert username and password
+08-Nov-2018 15:01:02 INFO User is successfully logged in 

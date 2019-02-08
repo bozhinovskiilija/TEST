@@ -1,0 +1,148 @@
+05-Nov-2018 12:59:29 INFO User is successfully logged in 
+05-Nov-2018 13:07:33 INFO Navigating to Home Page
+05-Nov-2018 13:07:39 INFO User is successfully logged in 
+05-Nov-2018 13:12:29 INFO Navigating to Home Page
+05-Nov-2018 13:12:35 INFO Insert username and password
+05-Nov-2018 13:12:35 INFO User is successfully logged in 
+05-Nov-2018 13:16:45 INFO Navigating to Home Page
+05-Nov-2018 13:16:54 INFO Insert username and password
+05-Nov-2018 13:16:54 INFO User is successfully logged in 
+05-Nov-2018 13:16:54 INFO /n
+05-Nov-2018 13:18:03 INFO Navigating to Home Page
+05-Nov-2018 13:18:10 INFO Insert username and password
+05-Nov-2018 13:18:10 INFO User is successfully logged in 
+05-Nov-2018 13:18:10 INFO 
+
+05-Nov-2018 13:18:30 INFO Navigating to Home Page
+05-Nov-2018 13:18:36 INFO Insert username and password
+05-Nov-2018 13:18:36 INFO User is successfully logged in 
+05-Nov-2018 13:18:36 INFO 
+
+05-Nov-2018 14:13:27 INFO ************TEST STARTED***********
+05-Nov-2018 14:13:27 INFO Navigating to Home Page
+05-Nov-2018 14:13:31 INFO Insert username and password
+05-Nov-2018 14:13:31 INFO User is successfully logged in 
+05-Nov-2018 14:50:24 INFO ************TEST STARTED***********
+05-Nov-2018 14:50:24 INFO Navigating to Home Page
+05-Nov-2018 14:50:35 INFO Insert username and password
+05-Nov-2018 14:50:35 INFO User is successfully logged in 
+05-Nov-2018 15:12:39 INFO ************TEST STARTED***********
+05-Nov-2018 15:12:39 INFO Navigating to Home Page
+05-Nov-2018 15:12:46 INFO Insert username and password
+05-Nov-2018 15:12:46 INFO User is successfully logged in 
+05-Nov-2018 15:12:57 INFO ************TEST STARTED***********
+05-Nov-2018 15:12:57 INFO Navigating to Home Page
+05-Nov-2018 15:16:31 INFO ************TEST STARTED***********
+05-Nov-2018 15:16:31 INFO Navigating to Home Page
+05-Nov-2018 15:16:37 INFO Insert username and password
+05-Nov-2018 15:16:37 INFO User is successfully logged in 
+05-Nov-2018 15:16:52 INFO ************TEST STARTED***********
+05-Nov-2018 15:16:52 INFO Navigating to Home Page
+05-Nov-2018 15:17:43 INFO ************TEST STARTED***********
+05-Nov-2018 15:17:43 INFO Navigating to Home Page
+05-Nov-2018 15:17:49 INFO Insert username and password
+05-Nov-2018 15:26:03 INFO ************TEST STARTED***********
+05-Nov-2018 15:26:04 INFO Navigating to Home Page
+05-Nov-2018 15:26:09 INFO Insert username and password
+05-Nov-2018 15:26:09 INFO User is successfully logged in 
+05-Nov-2018 15:26:20 INFO ************TEST STARTED***********
+05-Nov-2018 15:26:20 INFO Navigating to Home Page
+05-Nov-2018 15:28:16 INFO ************TEST STARTED***********
+05-Nov-2018 15:28:16 INFO Navigating to Home Page
+05-Nov-2018 15:28:22 INFO Insert username and password
+05-Nov-2018 15:28:22 INFO User is successfully logged in 
+05-Nov-2018 15:28:33 INFO ************TEST STARTED***********
+05-Nov-2018 15:28:33 INFO Navigating to Home Page
+05-Nov-2018 15:31:15 INFO ************TEST STARTED***********
+05-Nov-2018 15:31:15 INFO Navigating to Home Page
+05-Nov-2018 15:31:22 INFO Insert username and password
+05-Nov-2018 15:31:32 INFO ************TEST STARTED***********
+05-Nov-2018 15:31:32 INFO Navigating to Home Page
+05-Nov-2018 15:35:42 INFO ************TEST STARTED***********
+05-Nov-2018 15:35:42 INFO Navigating to Home Page
+05-Nov-2018 15:35:48 INFO Insert username and password
+05-Nov-2018 15:35:56 INFO ************TEST STARTED***********
+05-Nov-2018 15:35:56 INFO Navigating to Home Page
+05-Nov-2018 21:25:25 INFO ************TEST STARTED***********
+05-Nov-2018 21:25:25 INFO Navigating to Home Page
+05-Nov-2018 21:25:32 INFO Insert username and password
+05-Nov-2018 21:25:32 INFO User is successfully logged in 
+05-Nov-2018 21:32:02 INFO ************TEST STARTED***********
+05-Nov-2018 21:32:02 INFO Navigating to Home Page
+05-Nov-2018 21:32:09 INFO Insert username and password
+05-Nov-2018 21:32:09 INFO User is successfully logged in 
+05-Nov-2018 21:32:20 INFO ************TEST STARTED***********
+05-Nov-2018 21:32:20 INFO Navigating to Home Page
+05-Nov-2018 21:34:40 INFO ************TEST STARTED***********
+05-Nov-2018 21:34:40 INFO Navigating to Home Page
+05-Nov-2018 21:34:47 INFO Insert username and password
+05-Nov-2018 21:34:57 INFO ************TEST STARTED***********
+05-Nov-2018 21:34:57 INFO Navigating to Home Page
+05-Nov-2018 22:14:39 INFO ************TEST STARTED***********
+05-Nov-2018 22:14:39 INFO Navigating to Home Page
+05-Nov-2018 22:14:45 INFO Insert username and password
+05-Nov-2018 22:18:05 INFO ************TEST STARTED***********
+05-Nov-2018 22:18:05 INFO Navigating to Home Page
+05-Nov-2018 22:18:12 INFO Insert username and password
+05-Nov-2018 22:18:12 INFO User is successfully logged in 
+05-Nov-2018 22:22:39 INFO ************TEST STARTED***********
+05-Nov-2018 22:22:39 INFO Navigating to Home Page
+05-Nov-2018 22:22:45 INFO Insert username and password
+05-Nov-2018 22:22:45 INFO User is successfully logged in 
+05-Nov-2018 22:22:58 INFO ************TEST STARTED***********
+05-Nov-2018 22:22:58 INFO Navigating to Home Page
+05-Nov-2018 22:26:40 INFO ************TEST STARTED***********
+05-Nov-2018 22:26:40 INFO Navigating to Home Page
+05-Nov-2018 22:26:46 INFO Insert username and password
+05-Nov-2018 22:26:46 INFO User is successfully logged in 
+05-Nov-2018 22:26:59 INFO ************TEST STARTED***********
+05-Nov-2018 22:26:59 INFO Navigating to Home Page
+05-Nov-2018 22:32:20 INFO ************TEST STARTED***********
+05-Nov-2018 22:32:20 INFO Navigating to Home Page
+05-Nov-2018 22:32:25 INFO Insert username and password
+05-Nov-2018 22:32:26 INFO User is successfully logged in 
+05-Nov-2018 22:32:39 INFO ************TEST STARTED***********
+05-Nov-2018 22:32:39 INFO Navigating to Home Page
+05-Nov-2018 22:34:14 INFO ************TEST STARTED***********
+05-Nov-2018 22:34:14 INFO Navigating to Home Page
+05-Nov-2018 22:34:20 INFO Insert username and password
+05-Nov-2018 22:34:20 INFO User is successfully logged in 
+05-Nov-2018 22:42:43 INFO ************TEST STARTED***********
+05-Nov-2018 22:42:43 INFO Navigating to Home Page
+05-Nov-2018 22:42:49 INFO Insert username and password
+05-Nov-2018 22:42:49 INFO User is successfully logged in 
+05-Nov-2018 22:44:30 INFO ************TEST STARTED***********
+05-Nov-2018 22:44:30 INFO Navigating to Home Page
+05-Nov-2018 22:44:36 INFO Insert username and password
+05-Nov-2018 22:44:37 INFO User is successfully logged in 
+05-Nov-2018 22:45:25 INFO ************TEST STARTED***********
+05-Nov-2018 22:45:25 INFO Navigating to Home Page
+05-Nov-2018 22:45:31 INFO Insert username and password
+05-Nov-2018 22:49:50 INFO ************TEST STARTED***********
+05-Nov-2018 22:49:50 INFO Navigating to Home Page
+05-Nov-2018 22:49:56 INFO Insert username and password
+05-Nov-2018 22:49:56 INFO User is successfully logged in 
+05-Nov-2018 22:50:04 INFO ************TEST STARTED***********
+05-Nov-2018 22:50:04 INFO Navigating to Home Page
+05-Nov-2018 22:57:01 INFO ************TEST STARTED***********
+05-Nov-2018 22:57:01 INFO Navigating to Home Page
+05-Nov-2018 22:57:07 INFO Insert username and password
+05-Nov-2018 22:57:07 INFO User is successfully logged in 
+05-Nov-2018 22:57:15 INFO ************TEST STARTED***********
+05-Nov-2018 22:57:15 INFO Navigating to Home Page
+05-Nov-2018 23:00:10 INFO ************TEST STARTED***********
+05-Nov-2018 23:00:10 INFO Navigating to Home Page
+05-Nov-2018 23:00:16 INFO Insert username and password
+05-Nov-2018 23:01:40 INFO ************TEST STARTED***********
+05-Nov-2018 23:01:40 INFO Navigating to Home Page
+05-Nov-2018 23:01:46 INFO Insert username and password
+05-Nov-2018 23:06:57 INFO ************TEST STARTED***********
+05-Nov-2018 23:06:57 INFO Navigating to Home Page
+05-Nov-2018 23:07:03 INFO Insert username and password
+05-Nov-2018 23:07:03 INFO User is successfully logged in 
+05-Nov-2018 23:07:15 INFO ************TEST STARTED***********
+05-Nov-2018 23:07:15 INFO Navigating to Home Page
+05-Nov-2018 23:12:36 INFO ************TEST STARTED***********
+05-Nov-2018 23:12:36 INFO Navigating to Home Page
+05-Nov-2018 23:12:43 INFO Insert username and password
+05-Nov-2018 23:12:43 INFO User is successfully logged in 
